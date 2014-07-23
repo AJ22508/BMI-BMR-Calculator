@@ -1,7 +1,7 @@
 package com.alange;
 
 /**
- * Created by alange on 23-Jul-14.
+ * Created by alange and bnelson on 23-Jul-14.
  */
 
 import com.alange.Logic;
